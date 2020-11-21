@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ApplicationEssentials</string>
+    <string name="home_screen_text">Hello Android!!</string>
+    <string name="dial_phone">Dial Phone</string>
+</resources>
